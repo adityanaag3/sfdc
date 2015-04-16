@@ -1,0 +1,1 @@
+Please add your Salesforce Base URL to the Remote Site Settings to whitelist it for Callouts.
